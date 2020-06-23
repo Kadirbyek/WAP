@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592884361418</updated>
-      <workItem from="1592884366955" duration="2378000" />
+      <workItem from="1592884366955" duration="6452000" />
     </task>
     <servers />
   </component>
@@ -96,13 +96,17 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="554" y="299" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1592884793997" />
-    <state x="465" y="137" key="FileChooserDialogImpl" timestamp="1592884447395">
+    <state x="465" y="137" key="FileChooserDialogImpl" timestamp="1592888463804">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="137" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1592884447395" />
+    <state x="465" y="137" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1592888463804" />
     <state x="186" y="81" key="SettingsEditor" timestamp="1592885020711">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1592885020711" />
+    <state x="109" y="119" key="new project wizard" timestamp="1592888458701">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="119" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1592888458701" />
   </component>
 </project>
